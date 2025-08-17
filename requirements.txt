@@ -1,0 +1,18 @@
+# Requirements for Air Gesture Control with MediaPipe
+# Install with: pip install -r requirements.txt
+
+# Core libraries (latest compatible versions)
+opencv-python>=4.5.0
+pyautogui>=0.9.50
+numpy>=1.21.0
+
+# MediaPipe - try different versions
+mediapipe>=0.8.0
+
+# Alternative MediaPipe versions (uncomment if needed)
+# mediapipe==0.8.11
+# mediapipe==0.10.8
+
+# Additional utilities
+setuptools>=40.0.0
+wheel>=0.30.0
